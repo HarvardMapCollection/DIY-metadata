@@ -48,18 +48,6 @@ If you created the data yourself, or augmented existing data, how does the work 
 **Maintenance and Update Frequency:** how often you intend to update or maintain the data layers. 
 > Examples: "annually", "never updated"
 
-**Theme Keyword(s):** common-use word or phrase used to describe the subject of the data set. 
-> You can use [Library of Congress subject headings](https://id.loc.gov/authorities/subjects.html).
-
-**Place Keyword(s):** the geographic name of a location covered by a data set. 
-> You can use a thesaurus such as [geonames.org](http://www.geonames.org/).
-
-**Projection:** The EPSG code for the data's projection.
-> Example: EPSG: 4326. 
-
-**Bounding Coordinates:** the minimum and maximum latitude and longitude coordinates of the dataset expressed in decimal degrees. 
-> These can often be [auto-calculated using GIS software](https://gis.stackexchange.com/questions/85192/getting-extent-of-layer-in-qgis).
-
 **Point of contact:** contact information for an individual or organization that is knowledgeable about the data set [person/organization, e-mail, etc.]. 
 
 **Access Constraints:** restrictions on access to the data. 

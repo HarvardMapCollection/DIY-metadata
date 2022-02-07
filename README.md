@@ -33,9 +33,9 @@ Incomplete context is *always* better than no context. If you don't know the ans
 **Motivations:** the reason why the dataset was developed or intentions for its use. 
 If you created the data yourself, or augmented existing data, how does the work add value to the current data landscape. In other words, what are the project's successes?
 
-**Process steps and methods:** a sequential explanation of the step-by-step process for creating or editing the data.
-
 **Data sources:** If you obtained data from elsewhere and edited it, the source of the original datasets and date accessed.
+
+**Process steps and methods:** a sequential explanation of the step-by-step process for creating or editing the data.
 
 **Challenges:** challenging aspects of working with the data, or words-to-the-wise for someone else endeavoring to work with it. 
 
@@ -53,7 +53,6 @@ If you created the data yourself, or augmented existing data, how does the work 
 
 **Place Keyword(s):** the geographic name of a location covered by a data set. 
 > You can use a thesaurus such as [geonames.org](http://www.geonames.org/).
-
 
 **Projection:** The EPSG code for the data's projection.
 > Example: EPSG: 4326. 

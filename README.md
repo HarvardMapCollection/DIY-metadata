@@ -21,46 +21,23 @@ Incomplete context is *always* better than no context. If you don't know the ans
 
 **Publication Date:** the date when the data set is published or otherwise made available for release. 
 
+**Calendar Date(s) of the Content:** the date, dates or date range describing the content of the dataset. 
+
 **Title:** a title for the dataset. 
 
 **Geospatial Data Presentation Form:** the mode in which the geospatial data are represented. 
+> Examples: "vector digital data" 
 
 **Abstract:** a brief narrative description of the data set. 
 
-**Purpose:** the reason why the dataset was developed or intentions for its use. 
+**Motivations:** the reason why the dataset was developed or intentions for its use. 
 If you created the data yourself, or augmented existing data, how does the work add value to the current data landscape. In other words, what are the project's successes?
 
 **Process steps and methods:** a sequential explanation of the step-by-step process for creating or editing the data.
 
-**Challenges:** challenging aspects of working with the data, or words-to-the-wise for someone else endeavoring to work with it. 
-
-
-**Calendar Date(s) of the Content:** the date, dates or date range describing the content of the dataset. 
-
-**Maintenance and Update Frequency:** schedule for updating or maintaining the data layers. 
-
-**Bounding Coordinates:** the minimum and maximum latitude and longitude coordinates of the dataset expressed in decimal degrees. 
-> These can often be [auto-calculated using GIS software](https://gis.stackexchange.com/questions/85192/getting-extent-of-layer-in-qgis).
-
-**Theme Keyword(s):** common-use word or phrase used to describe the subject of the data set. 
-
-**Theme Keyword Thesaurus:** the formally registered thesaurus or a similar authoritative source of theme keywords from which the theme keywords were selected, for example, [Library of Congress subject headings](https://id.loc.gov/authorities/subjects.html). 
-
-**Place Keyword(s):** the geographic name of a location covered by a data set. 
-> You can use a thesaurus such as [geonames.org](http://www.geonames.org/).
-
-**Place Keyword Thesaurus:** the formally registered thesaurus or a similar authoritative source of place keywords from which the place keywords were selected. 
-
-**Access Constraints:** restrictions on access to the data. 
-
-**Use Constraints:** restrictions on the use of the data. 
-
-**Point of contact:** contact information for an individual or organization that is knowledgeable about the data set [person/organization, address, phone, e-mail, etc.]. 
-
 **Data sources:** If you obtained data from elsewhere and edited it, the source of the original datasets and date accessed.
 
-**Projection:** The EPSG code for the data's projection.
-> Example: EPSG: 4326. 
+**Challenges:** challenging aspects of working with the data, or words-to-the-wise for someone else endeavoring to work with it. 
 
 **Relationships:** If there are multiple datasets in the project, processing scripts, or other resources, the filenames and how the materials relate to or were used with one another.
 
@@ -68,6 +45,27 @@ If you created the data yourself, or augmented existing data, how does the work 
 
 **Codebooks:** If you cleaned data, deleted, renamed, mathematically calculated or inferred fields from other fields, the filename and link to a plain-text codebook with field name definitions, including units of measurement.
 
+**Maintenance and Update Frequency:** how often you intend to update or maintain the data layers. 
+> Examples: "annually", "never updated"
+
+**Theme Keyword(s):** common-use word or phrase used to describe the subject of the data set. 
+> You can use [Library of Congress subject headings](https://id.loc.gov/authorities/subjects.html).
+
+**Place Keyword(s):** the geographic name of a location covered by a data set. 
+> You can use a thesaurus such as [geonames.org](http://www.geonames.org/).
+
+
+**Projection:** The EPSG code for the data's projection.
+> Example: EPSG: 4326. 
+
+**Bounding Coordinates:** the minimum and maximum latitude and longitude coordinates of the dataset expressed in decimal degrees. 
+> These can often be [auto-calculated using GIS software](https://gis.stackexchange.com/questions/85192/getting-extent-of-layer-in-qgis).
+
+**Point of contact:** contact information for an individual or organization that is knowledgeable about the data set [person/organization, e-mail, etc.]. 
+
+**Access Constraints:** restrictions on access to the data. 
+
+**Use Constraints:** restrictions on the use of the data. 
 
 
 

@@ -41,7 +41,7 @@ If you created the data yourself, or augmented existing data, how does the work 
 
 **Relationships:** If there are multiple datasets in the project, processing scripts, or other resources, the filenames and how the materials relate to or were used with one another.
 
-**Data integrity:** If values are missing, or fields are blank, instructions for future users on how to make sense of why.
+**Data integrity:** If values are missing, or fields are blank, instructions for future users for making sense of possible reasons why.
 
 **Codebooks:** If you cleaned data, deleted, renamed, mathematically calculated or inferred fields from other fields, the filename and link to a plain-text codebook with field name definitions, including units of measurement.
 

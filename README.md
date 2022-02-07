@@ -10,8 +10,10 @@ This guide provides a template for creating documentation for GIS data projects 
 
 - Document your data creation and editing process early and often. It is much easier to write down what you do as you're doing it than to try to remember afterwards.
 - Write your documentation in open formats, such as .txt. Avoid proprietary formats such as Microsoft Word files to extend the longevity and accessibility of your work.
-- Incomplete context is *always* better than no context. If you don't know the answers to everything included in this template, just try to populate as much as you can.
 - Share! Upload your data resources, codebooks, scripts, and documentation to Github, Dataverse, or OSF if immediate ingest into a geo-portal is not an option. Link to these well-contextualized data materials from any digital project making use of the data. 
+
+## Completeness 
+Incomplete context is *always* better than no context. If you don't know the answers to everything included in this template, try to populate as much as you can.
 
 ## Documentation elements
 

@@ -21,7 +21,7 @@ Incomplete context is *always* better than no context. If you don't know the ans
 
 **Publication Date:** the date when the data set is published or otherwise made available for release. 
 
-**Title:** the name by which the dataset is known. 
+**Title:** a title for the dataset. 
 
 **Geospatial Data Presentation Form:** the mode in which the geospatial data are represented. 
 
@@ -34,8 +34,6 @@ If you created the data yourself, or augmented existing data, how does the work 
 
 **Challenges:** challenging aspects of working with the data, or words-to-the-wise for someone else endeavoring to work with it. 
 
-
-**Currentness Reference of the Content:** a description of how the content date was determined, i.e. publication date or ground condition. 
 
 **Calendar Date(s) of the Content:** the date, dates or date range describing the content of the dataset. 
 
